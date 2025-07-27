@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berk&#39;s Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Berk&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>berkmehmedov44@yahoo.com (Berk Mehmedov)</managingEditor>
+    <webMaster>berkmehmedov44@yahoo.com (Berk Mehmedov)</webMaster>
+    <copyright>© 2025 Berk Mehmedov</copyright>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wifinetic Walkthrough</title>
+      <link>http://localhost:1313/labs/wifinetic/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <author>berkmehmedov44@yahoo.com (Berk Mehmedov)</author>
+      <guid>http://localhost:1313/labs/wifinetic/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/labs/wifinetic/featureimage-1.png" />
+    </item>
+    
+    <item>
+      <title>ISC2 - Certified in Cyber security</title>
+      <link>http://localhost:1313/certifications/isc2/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <author>berkmehmedov44@yahoo.com (Berk Mehmedov)</author>
+      <guid>http://localhost:1313/certifications/isc2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/certifications/isc2/featureisc2.jpeg" />
+    </item>
+    
+    <item>
+      <title>Google Cybersecurity Professional Certificate</title>
+      <link>http://localhost:1313/certifications/googlecybersecurity/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <author>berkmehmedov44@yahoo.com (Berk Mehmedov)</author>
+      <guid>http://localhost:1313/certifications/googlecybersecurity/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/certifications/googlecybersecurity/featuregoogle.png" />
+    </item>
+    
+  </channel>
+</rss>
