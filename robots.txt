@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berkbr.github.io/CYBERPORTFOLIO/sitemap.xml
